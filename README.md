@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdul Hannan!
 
-<!--
-**abdhannantas/abdhannantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Developer from Lahore, Pakistan 🇵🇰
 
-Here are some ideas to get you started:
+I'm a 16-year-old passionate coder who loves building clean, functional, and creative digital experiences. I spend my time exploring backend logic with Python and crafting responsive interfaces for the web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My Tech Stack
+
+### 💻 Languages & Scripting
+* **Python** (Automation, scripting, logic)
+* **JavaScript** (Interactive web elements)
+* **HTML5 & CSS3** (Responsive layouts, modern styling)
+
+### ⚙️ Tools & Platforms
+* **Version Control:** Git & GitHub
+* **Editor:** VS Code
+
+---
+
+## 📈 What I'm Working On
+* 🐍 Diving deeper into advanced Python concepts.
+* 🌐 Creating sleek web applications using JS.
+* 🎨 Building a portfolio of mini-projects and utilities.
+## 📽 Some Projects
+* [Flux Servers](https://fluxservers.cloud)
+*  [DHA Lahore Maps](https://maps.dhalahore.org)
+
+---
+
+## 📫 Connect with Me
+
+* 📍 **Location:** Lahore, Punjab, Pakistan
+* 💼 **GitHub:** [@your-username](https://github.com/abdhannantas)
+* 🌐 **Wbesite**: [My website](https://abdulhannan.zzz)
+
+*Feel free to star my repositories if you like my work! Let's build something cool.*
