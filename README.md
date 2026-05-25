@@ -25,14 +25,14 @@ I'm a 16-year-old passionate coder who loves building clean, functional, and cre
 * 🎨 Building a portfolio of mini-projects and utilities.
 ## 📽 Some Projects
 * [Flux Servers](https://fluxservers.cloud)
-*  [DHA Lahore Maps](https://maps.dhalahore.org)
+* [DHA Lahore Maps](https://maps.dhalahore.org)
 
 ---
 
 ## 📫 Connect with Me
 
 * 📍 **Location:** Lahore, Punjab, Pakistan
-* 💼 **GitHub:** [@your-username](https://github.com/abdhannantas)
-* 🌐 **Wbesite**: [My website](https://abdulhannan.zzz)
+* 💼 **GitHub:** [@abdhannantas](https://github.com/abdhannantas)
+* 🌐 **Website** [My website](https://abdulhannan.zzz)
 
 *Feel free to star my repositories if you like my work! Let's build something cool.*
